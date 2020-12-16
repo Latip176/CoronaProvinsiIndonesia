@@ -1,4 +1,4 @@
-# CoronaProvinsiIndonesia
+# Tutorial Acces
 Ini adalah script untuk mendapatkan data corona provinsi indonesia
 
 Tutorial:
